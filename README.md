@@ -5,6 +5,7 @@ This is a simple chat application built using the MERN (MongoDB, Express.js, Rea
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and log out securely.
+- **Sign in with Google**: Users can also sign in using their Google accounts.
 - **Real-time Messaging**: Messages are sent and received instantly using WebSocket technology.
 - **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 
@@ -15,6 +16,7 @@ This is a simple chat application built using the MERN (MongoDB, Express.js, Rea
 - **React.js**: A JavaScript library for building user interfaces.
 - **Node.js**: A JavaScript runtime environment for running server-side code.
 - **Socket.IO**: A library that enables real-time, bidirectional communication between web clients and servers.
+- **Google OAuth 2.0**: Used for enabling sign in with Google functionality.
 
 ## Setup
 
