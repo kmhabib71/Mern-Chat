@@ -18,7 +18,6 @@ This is a simple chat application built using the MERN (MongoDB, Express.js, Rea
 
 ## Setup
 
-**Clone the repository:**
 
 ```bash
 git clone https://github.com/kmhabib71/Mern-Chat.git
