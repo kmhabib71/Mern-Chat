@@ -34,7 +34,7 @@ npm start
 
 cd client
 npm start
-
+```
 Open your browser and navigate to http://localhost:3000 to view the application.
 Configuration
 MongoDB URI: Update the MongoDB URI in server/config/default.json with your own MongoDB connection string.
